@@ -1,4 +1,4 @@
 #!/bin/bash sh
 
 
-echo "hi there"
+sudo echo "hi there"
